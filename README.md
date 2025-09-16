@@ -38,5 +38,5 @@ You can preview the app by opening `GroceryListApp.html` directly in your browse
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/grocery-list-app.git
+   git clone https://github.com/213020aumc/grocery-list-app.git
    ```
