@@ -4,7 +4,7 @@ A simple, responsive web application to manage your grocery shopping list with e
 
 ## ✨ Demo
 
-You can preview the app by opening `index.html` directly in your browser. Here's a quick look at the UI:
+You can preview the app by opening `GroceryListApp.html` directly in your browser. Here's a quick look at the UI:
 
 ## 📸 Screenshot
 
